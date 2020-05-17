@@ -10,7 +10,7 @@
 	width: 30px;
 	margin-left: 5px;
 	background: white;
-	background-image: url("../html/img/google.PNG");
+	background-image: url("img/google.PNG");
 	background-size: cover;
 	transition: width 0s linear;
 
@@ -20,7 +20,7 @@
 	width: 30px;
 	margin-left: 5px;
 	background: white;
-	background-image: url("../html/img/fb.PNG");
+	background-image: url("img/fb.PNG");
 	background-size: cover;
 	transition: width 1s ease-in-out;
 }
@@ -29,7 +29,7 @@
 	width: 30px;
 	margin-left: 5px;
 	background: white;
-	background-image: url("../html/img/twitter.PNG");
+	background-image: url("img/twitter.PNG");
 	background-size: cover;
 	transition: width 1s linear;
 }
@@ -39,7 +39,7 @@
 	margin-left: 5px;
 	margin-right: 50px;
 	background: white;
-    background-image: url("../html/img/linkdin.PNG");
+    background-image: url("img/linkdin.PNG");
 	background-size: cover;
 	transition: width 1s linear;
 }
@@ -59,7 +59,7 @@
 	width: 300px;
 	height: 180px;
     margin-top: 20px;
-	background: url("../html/img/capture.PNG");
+	background: url("img/capture.PNG");
 	background-size: cover;
 }
 #g {
@@ -171,7 +171,7 @@
 .qw{
 	width:400px;
 	height:300px;
-	background-image: url(../html/img/pro.PNG);
+	background-image: url(img/pro.PNG);
 	background-size: cover;
 }
 #z{
