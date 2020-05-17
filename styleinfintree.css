@@ -10,7 +10,7 @@
 	width: 30px;
 	margin-left: 5px;
 	background: white;
-	background-image: url("img/google.PNG");
+	background-image: url("/img/google.PNG");
 	background-size: cover;
 	transition: width 0s linear;
 
